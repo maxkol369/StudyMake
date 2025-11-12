@@ -1,2 +1,5 @@
 hello
 hello-dbg
+*.o
+*.out
+*.exe
